@@ -7,5 +7,9 @@ venkatesh
 ### fake insta page
 * To see this as webpage [click here](http://newinsta.atwebpages.com)
 <p><i> it  is a phishing site so don't enter any real information in that site</i></p>
-<h3 style="color:green" >i just created this page for education purpose only </h3>
+<div style="color:green" >
+<h3  >i just created this page for education purpose only </h3>
  
+</div>
+
+<b>Instagram page is like this in 2021 🙄</b>
