@@ -6,4 +6,4 @@
 <h3  >i just created this page for education purpose only </h3>
 
 
-<b>Instagram page is like this in 2021 🙄</b>
+<i>Instagram page is like this in 2021 </i>
