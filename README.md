@@ -1,10 +1,7 @@
-# instagram
-simple instagram fake page 
-```
-venkatesh 
-```
-<img src="https://i.ibb.co/n0tFfjY/instagram.png" > </img> 
-### fake insta page
+# Instagram Clone
+
+ 
+## Demo
 * To see this as webpage [click here](https://20a31a05g3.github.io/instagram/)
 
 <div style="color:green" >
@@ -12,4 +9,4 @@ venkatesh
  
 </div>
 
-<b>Instagram page is like this in 2021 🙄</b>
+<b>Instagram page is like this in 2021 </b>
